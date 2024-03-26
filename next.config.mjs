@@ -6,14 +6,14 @@ const nextConfig = {
         source:'/playmore',
         destination:'https://fbgames.fun/boosting-your-auto-insurance-astute-techniques-for-complete-protection/?utm_source=PKRFB&utm_medium=PKR&utm_campaign=pkr',
         permanent:true
-      }
-      ]
-    return [
+      },
       {
         source:'/watchmore',
         destination:'https://watchvedioz.com/watch-more/',
         permanent:true
       }
+      
+   
       ]
   }
 
