@@ -9,7 +9,19 @@ const nextConfig = {
       }
       ]
   }
+
+redirects:async()=>{
+    return [
+      {
+        source:'/watchmore',
+        destination:'https://watchvedioz.com/watch-more/',
+        permanent:true
+      }
+      ]
+  }
       
+
+  
 };
 
 export default nextConfig;
