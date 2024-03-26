@@ -8,9 +8,6 @@ const nextConfig = {
         permanent:true
       }
       ]
-  }
-
-redirects:async()=>{
     return [
       {
         source:'/watchmore',
@@ -19,6 +16,10 @@ redirects:async()=>{
       }
       ]
   }
+
+
+    
+  
       
 
   
