@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source:'/playmore',
-        destination:'https://studentspoint.org/griffith-vice-chancellors-international-scholarship/amp/?utm_source=PillayFB&utm_medium=PKR&utm_campaign=pkr222&amp',
+        destination:'https://fbgames.fun/boosting-your-auto-insurance-astute-techniques-for-complete-protection/?utm_source=PKRFB&utm_medium=PKR&utm_campaign=pkr',
         permanent:true
       }
       ]
